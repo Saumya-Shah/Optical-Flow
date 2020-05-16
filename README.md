@@ -27,7 +27,7 @@ Creates an AVI video of the object being tracking using optical flow of the feat
 
 ![result_easy](/results/easy_compressed.gif)
 
-2. Tracking of 1 car in low lighting conditions turning significantly
+2. Tracking of a car in low lighting conditions with significant turning of the vehicle
 
 ![result_easy](/results/medium.gif)
 
